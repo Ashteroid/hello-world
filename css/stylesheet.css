@@ -1,3 +1,16 @@
+html, body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: url() no-repeat center center;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+}
+
 p {
-  color: red;
+    color: white
 }
