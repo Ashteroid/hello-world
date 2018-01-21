@@ -5,10 +5,14 @@ html, body {
 }
 
 .header {
-    background: url(./images/sam-beasley-500154.jpg) no-repeat center center;
+    background: url(https://i.imgur.com/t41xqdp.jpg) no-repeat center center;
     background-size: cover;
     height: 800px;
     text-align: center;
+}
+
+h1 {
+    color: white
 }
 
 p {
