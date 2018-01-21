@@ -12,5 +12,6 @@
           <td>Function</td>
         </tr>
     </table>
+    <p>I do graphic design by day, so once I grasp the HTML and CSS basics, I hope to be well on my way to making some snazzy websites for work and play!</p>
   </body>
 </html>
