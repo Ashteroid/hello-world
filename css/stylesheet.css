@@ -12,6 +12,8 @@ html, body {
 }
 
 h1 {
+    font-family: Roboto;
+    font-weight: 500;
     color: white
 }
 
