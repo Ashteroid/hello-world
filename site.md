@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title> Web Design by Ashteroid</title>
-  </head>
   <body>
     <h1>Web Design by Ashteroid</h1><br><br>
     <h2>Practice &amp; organisation</h2></br></br>
