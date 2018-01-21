@@ -4,7 +4,12 @@ html, body {
     padding: 0;
 }
 
-
+.header {
+    background: url(images/sam-beasley-500154.jpg) no-repeat center center;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+}
 
 p {
     color: white
