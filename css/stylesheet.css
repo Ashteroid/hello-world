@@ -1,5 +1,4 @@
 html, body {
-    color: #FFFFFF
     background-color: #000000;
     margin: 0;
     padding: 0;
@@ -10,6 +9,7 @@ html, body {
     background-size: cover;
     height: 800px;
     text-align: center;
+    color: white
 }
 
 p {
