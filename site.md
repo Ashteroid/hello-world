@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>Web Design by Ashteroid</h1>
-    <h3>A way to learn</h3>
+    <h2>A way to learn</h2>
     <p>Hi there. Here's where I practice my web design skills. I'm a newbie, so there's not much to see here yet!</p><br>
     <table>
         <th colspan="3"><h3>I'm working on...</h3></th>
