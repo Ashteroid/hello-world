@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link href:"stylesheet" type:"text/css" rel:"stylesheet">
-    <title>Web Design by Ashteroid</title>
-  </head>
-  
   <body>
-    
     <h1>Web Design by Ashteroid</h1>
     <h2>What am I doing?</h2>
     <p>Hi there. This is where I practice my web design skills. I'm a newbie, so there's not much to see here yet! But hopefully, I will create a spectacle soon enough.</p>
