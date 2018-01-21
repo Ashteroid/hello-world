@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+    <link href="stylesheet.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1>Web Design by Ashteroid</h1>
