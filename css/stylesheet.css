@@ -12,8 +12,6 @@ html, body {
 }
 
 .header h1 {
-    background-color: #000000;
-        opacity: 70%;
     font-family: Arial;
     font-weight: 900;
     font-size: 200px;
