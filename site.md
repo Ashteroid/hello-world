@@ -8,11 +8,9 @@
       <thead>
         <th>I'm working on...</th>
       </thead>
-      <tbody>
         <tr>Aesthetics </tr>
         <tr>Readability </tr>
         <tr>Function</tr>
-      </tbody
     </table>
   </body>
 </html>
