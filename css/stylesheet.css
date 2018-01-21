@@ -5,7 +5,7 @@ html, body {
 }
 
 .header {
-    background: url(./images/sam-beasley-500154.jpg) no-repeat center;
+    background: url(images/sam-beasley-500154.jpg) no-repeat center;
     background-size: cover;
     height: 800px;
     text-align: center;
