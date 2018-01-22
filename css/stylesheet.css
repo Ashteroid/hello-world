@@ -4,7 +4,7 @@ html, body {
     height: 60px;
     font-family: Arial;
     font-weight: 900;
-    color: #DDDDDD;
+    color: #EEEEEE;
     text-align: center;
 }
 
@@ -17,6 +17,7 @@ html, body {
 
 .header h1 {
     font-size: 175px;
+    color: #FFFFFF
 }
 
 h2 {
