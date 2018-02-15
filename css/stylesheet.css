@@ -26,7 +26,8 @@ html, body {
     -moz-opacity: 0.30;
     opacity: 0.75;
     width: 100%;
-    margin: 0px 20px;
+    height: 110%;
+    margin: 0px;
     padding: 0px;
     overflow-x: hidden;
     font-size: 115px;
