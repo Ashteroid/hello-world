@@ -72,13 +72,16 @@ html, body {
   line-height: 80px; 
   list-style: none;
   padding: 0 20px;
+  transition: background .5s;
+  transition: text .5s;
 }
 
 .btn:hover, .nav ul li:hover {
   color: #000;
   background: #fff;
   cursor: pointer; 
-  transition: background .5s;  
+  transition: background .5s;
+  transition: text .5s;
 }
 
 h2 {
