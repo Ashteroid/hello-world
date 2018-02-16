@@ -71,7 +71,7 @@ html, body {
   height: 80px;
   line-height: 80px; 
   list-style: none;
-  padding: 0 0px;
+  padding: 0 20px;
   transition: background .5s; 
 }
 
