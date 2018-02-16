@@ -32,6 +32,11 @@ html, body {
     color: #FFFFFF
 }
 
+.header .container {
+  position: relative;
+  top: 200px;
+}
+
 .container {
   margin: 0 auto;
   max-width: 940px; 
