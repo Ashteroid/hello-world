@@ -76,7 +76,8 @@ html, body {
 }
 
 .btn:hover, .nav ul li:hover {
-  background: #F0A804;
+  color: #000;
+  background: #fff;
   cursor: pointer; 
   transition: background .5s;  
 }
