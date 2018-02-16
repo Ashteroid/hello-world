@@ -45,6 +45,7 @@ html, body {
 
 .btn {
   color: #fff;
+  font-weight: 400;
   background: #000;
   padding: 10px 40px;
   text-decoration: none; 
