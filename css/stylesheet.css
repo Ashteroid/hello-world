@@ -67,6 +67,7 @@ html, body {
 
 .nav ul li {
   color: #fff;
+  font-weight: 200;
   display: inline-block; 
   height: 80px;
   line-height: 80px; 
@@ -76,7 +77,7 @@ html, body {
 }
 
 .btn:hover, .nav ul li:hover {
-  background: #117bff;
+  background: #FFC125;
   cursor: pointer; 
   transition: background .5s;  
 }
