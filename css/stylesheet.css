@@ -20,11 +20,11 @@ html, body {
 }
 
 .header h1 {
-    background-color: #000000;
+    background-color: #3ca9e8;
     filter: alpha(opacity=30);
     filter: progid: DXImageTransform.Microsoft.Alpha(opacity=30);
     -moz-opacity: 0.30;
-    opacity: 0.4;
+    opacity: 0.75;
     width: 100%;
     padding: 10px;
     overflow-x: hidden;
@@ -44,7 +44,7 @@ html, body {
 
 .btn {
   color: #fff;
-  background: #3ca9e8;
+  background: #3595cc;
   padding: 10px 40px;
   text-decoration: none;
   transition: background .5s; 
@@ -76,7 +76,7 @@ html, body {
 }
 
 .btn:hover, .nav ul li:hover {
-  color: #AAAAAA;
+  color: #585859;
   background: #fff;
   cursor: pointer; 
   transition: background .5s;
